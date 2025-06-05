@@ -72,7 +72,8 @@ g++ -std=c++20 -o decision_tree decision_tree.cpp
 ```bash
 Copy
 Edit
-cargo run --release -- <dataset_file.csv>```
+cargo run --release -- <dataset_file.csv>
+```
 🖥️ Example Output
 ```bash
 text
