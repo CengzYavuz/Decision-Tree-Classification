@@ -74,7 +74,7 @@ Copy
 Edit
 cargo run --release -- <dataset_file.csv>```
 🖥️ Example Output
-```
+```bash
 text
 Copy
 Edit
