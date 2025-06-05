@@ -74,6 +74,7 @@ Copy
 Edit
 cargo run --release -- <dataset_file.csv>```
 🖥️ Example Output
+```
 text
 Copy
 Edit
@@ -81,3 +82,4 @@ Edit
 [Text-based decision tree]
 Enter input (comma-separated): sunny,hot,high,false
 Prediction: no
+```
