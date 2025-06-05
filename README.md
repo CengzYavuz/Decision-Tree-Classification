@@ -57,21 +57,22 @@ The tree is built manually by calculating **entropy** and **information gain** f
 
 ## 🚀 How to Run
 
-### 🐍 Python
+🐍 Python
 ```bash
 python3 decision_tree.py <dataset_file.csv>
-
+```
 💻 C++
-bash
+```bash
 Copy
 Edit
 g++ -std=c++20 -o decision_tree decision_tree.cpp
 ./decision_tree <dataset_file.csv>
+```
 🦀 Rust
-bash
+```bash
 Copy
 Edit
-cargo run --release -- <dataset_file.csv>
+cargo run --release -- <dataset_file.csv>```
 🖥️ Example Output
 text
 Copy
